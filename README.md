@@ -97,11 +97,11 @@ https://github.com/CoderAnush?tab=repositories
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:anush.example@gmail.com">
+  <a href="mailto:anushramesh2023@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/anush.insta" target="_blank">
+  <a href="https://instagram.com/itzz_anush_7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
